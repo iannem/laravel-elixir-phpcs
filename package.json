@@ -26,11 +26,10 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "laravel-elixir": ">=3.0.0-0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ponko2/laravel-elixir-phpcs.git"
+    "url": "https://github.com/iannem/laravel-elixir-phpcs.git"
   },
   "scripts": {
     "lint": "eslint ."
